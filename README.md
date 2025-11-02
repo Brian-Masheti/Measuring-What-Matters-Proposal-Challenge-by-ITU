@@ -1,12 +1,8 @@
 # Measuring What Matters: AI Environmental Impact Framework
 
-## 🏆 Zindi Competition Submission
+## 📋 Project Overview
 
-**Track 1: Real-Time Telemetry & Monitoring Tools**
-
-This repository contains my winning proposal for the ITU "Measuring What Matters Proposal Challenge" - a comprehensive framework for real-time monitoring and attribution of AI systems' environmental impact.
-
-## 📋 Overview
+This repository contains my proposal for the ITU "Measuring What Matters Proposal Challenge" - a comprehensive framework for real-time monitoring and attribution of AI systems' environmental impact.
 
 The **Real-Time AI Environmental Impact Telemetry and Attribution Framework (RTEIF)** addresses critical gaps in measuring AI's environmental footprint by providing:
 
