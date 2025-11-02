@@ -122,18 +122,11 @@ class RTEIFTelemetry:
 3. MLPerf. "MLPerf Power: Benchmarking the Energy Efficiency of Machine Learning Systems from µWatts to MWatts for Sustainable AI." arXiv:2410.12032, 2024.
 4. Wu, et al. "OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models." arXiv:2405.12843, 2024.
 
-## 🏅 Competition Results
-
-**Zindi "Measuring What Matters Proposal Challenge by ITU"**
-- **Track**: Real-Time Telemetry & Monitoring Tools
-- **Submission**: B-Masheti_track_1.md
-
 ## 👨‍💻 Author
 
 **Brian Masheti**
-- Environmental AI Researcher
-- Sustainable Computing Advocate
-- Climate Tech Innovator
+- Data Analyst
+- Developer
 
 ## 📄 License
 
