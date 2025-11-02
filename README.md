@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This repository contains my proposal for the ITU "Measuring What Matters Proposal Challenge" - a comprehensive framework for real-time monitoring and attribution of AI systems' environmental impact.
+This repository contains my proposal for the ITU "Measuring What Matters Proposal Challenge" on Zindi - a comprehensive framework for real-time monitoring and attribution of AI systems' environmental impact.
 
 The **Real-Time AI Environmental Impact Telemetry and Attribution Framework (RTEIF)** addresses critical gaps in measuring AI's environmental footprint by providing:
 
