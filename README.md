@@ -126,7 +126,6 @@ class RTEIFTelemetry:
 
 **Zindi "Measuring What Matters Proposal Challenge by ITU"**
 - **Track**: Real-Time Telemetry & Monitoring Tools
-- **Score**: 0.98/1.0 (Top 3)
 - **Submission**: B-Masheti_track_1.md
 
 ## 👨‍💻 Author
